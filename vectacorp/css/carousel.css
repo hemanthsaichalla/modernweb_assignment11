@@ -27,7 +27,9 @@ body {
     height: 32rem;
   }
   .carousel-indicators > li {
-    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
   }
   
   /* Center align the text within the three columns below the carousel */
